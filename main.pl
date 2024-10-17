@@ -1,6 +1,7 @@
 % Bonhomme pendu
 use_module(library(random)).
 
+%Hey
 
 motAleatoire(MotADeviner):-
     random_select(MotADeviner,
